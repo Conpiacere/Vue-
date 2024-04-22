@@ -20,7 +20,6 @@
   
 </template>
 <script>
-import UserInfo from '../components/UserInfo.vue';
 import CommonAside from '../components/CommonAside.vue';
 import CommonHeader from '../components/CommonHeader.vue';
 import CommonTag from '../components/CommonTag.vue';
@@ -32,7 +31,6 @@ export default {
     CommonAside,
     CommonHeader,
     CommonTag,
-    UserInfo
   }
 }
 </script>
